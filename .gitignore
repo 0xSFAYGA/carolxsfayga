@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+.next/
+out/
+
+# Environment variables
+.env*
+
+# Logs
+logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Package manager cache
+.pnpm-store/
+.yarn/
+yarn-error.log*
+
+# Vite cache
+.vite/
+
+# Temporary files
+*.tmp
+*.temp
